@@ -18,6 +18,11 @@ I used it to replace the input() to printflag() function.
 
 And this worked due to that the input() was not called and printflag() gave the flag. 
 
+```bash
+$ ./excesschars
+CTF{3xpl0!t_Rev3rs!nG_3G}
+```
+
 ## Flag
 ```
 CTF{3xpl0!t_Rev3rs!nG_3G}
