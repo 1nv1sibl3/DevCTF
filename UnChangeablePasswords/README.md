@@ -26,6 +26,10 @@ Well if we look at this challenge we have a login page. So to start i created a 
 
 I login with the new account and saw there is a Change password option. I went there it took to reset.php. Then I thought we can use IDOR vulnerability because it had two parameters  to post i.e. user_id & pass.
 
+<p align="center">
+  <img src="resetpage.png" alt="Webpage"/>
+</p>
+
 So to change this i fired up burp suite.
 
 I kept intercept on at reset.php.
