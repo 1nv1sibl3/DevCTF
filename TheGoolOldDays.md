@@ -2,5 +2,5 @@
 
 
 <p align="center">
-  <img src="chall.png" alt="Description"/>
+  <img src="Chall.png" alt="Description"/>
 </p>
